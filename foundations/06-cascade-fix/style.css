@@ -40,3 +40,21 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
+/* add stuff from here */
+
+p.small-para {
+  font-size: 14px;
+}
+
+#confirm-button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+}
+
+.text.child {
+  font-weight: 800;
+  font-size: 18px;
+}
+
